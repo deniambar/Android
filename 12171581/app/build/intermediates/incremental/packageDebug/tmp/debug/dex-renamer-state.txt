@@ -1,0 +1,4 @@
+#Wed Apr 03 20:09:50 ICT 2019
+base.0=D\:\\AndroidSinau\\Kuliah\\12171581\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
